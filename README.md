@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on:<br>Developing PowerShell & Python tools for forensic collection and SOC automation.<br><br>🤝 I’m looking to collaborate on:<br>Threat detection rules, CTI automation projects, and blue team utilities.<br><br>🧠 I’m looking for help with:<br>Cloud-native detection strategies (Azure/GCP), and refining DFIR methodologies.<br><br>🌱 I’m currently learning:<br>Advanced threat hunting techniques, Windows internals & cloud security.<br><br>💬 Ask me about:<br>SIEM rule logic, IOC enrichment, threat actor tracking, and automation flows.
+💻 I’m currently working on:<br>Developing PowerShell & Python tools for forensic collection and SOC automation.<br>🧠 I’m looking for help with:<br>Cloud-native detection strategies (Azure/GCP), and refining DFIR methodologies.<br><br>🌱 I’m currently learning:<br>Advanced threat hunting techniques, Windows internals & cloud security.<br><br>💬 Ask me about:<br>SIEM rule logic, IOC enrichment, threat actor tracking, and automation flows.
 
 
 ## 🌐 Socials:
